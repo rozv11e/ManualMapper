@@ -1,0 +1,52 @@
+## Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+*.exe
+*.dll
+*.pdb
+
+## Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider / JetBrains
+.idea/
+*.DotSettings.user
+
+## NuGet
+*.nupkg
+.nuget/packages/
+packages/
+*.snupkg
+
+## Temp files
+*.tmp
+*.temp
+*.log
+
+## Other project files
+*.cache
+*.db
+*.sln.iml
+
+## Publish output
+publish/
+out/
+
+## OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store

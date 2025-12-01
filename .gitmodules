@@ -1,0 +1,3 @@
+[submodule "WinDeepMem"]
+	path = WinDeepMem
+	url = https://github.com/rozv11e/WinDeepMem
